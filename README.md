@@ -11,12 +11,15 @@
 2. [【flinkStreamSQL】(flink sql扩展：主要实现了流与维表的join)](https://github.com/DTStack/flinkStreamSQL)
 
 ### 中文博客
+#### 企业博客
+1. [【云栖社区】-flink分类](https://yq.aliyun.com/tags/type_blog-tagid_13652/?spm=a2c4e.11153940.blogcont225623.6.64026211p5DnGP)
+2. [【华为企业互动社区】-flink相关](https://forum.huawei.com/enterprise/zh/search.php?srchtxt=flink&page=1)
+
 #### 个人博客
 1. [【阿里-云邪】-flink分类](http://wuchong.me/categories/Flink/)
 2. [【小鹏闲话】-flink分类](http://blog.luckypeng.com/tags/flink/)
+3. [【yanghua】-flink分类](http://vinoyang.com/tags/Flink/)
 
-#### 其他
-1. [【云栖社区】-flink分类](https://yq.aliyun.com/tags/type_blog-tagid_13652/?spm=a2c4e.11153940.blogcont225623.6.64026211p5DnGP)
 
 ### 英文博客
 1. [【Data Artisans】(flink背后创业公司)-apache-flink分类](https://data-artisans.com/blog/category/apache-flink)
