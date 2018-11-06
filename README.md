@@ -1,6 +1,9 @@
 # flink学习资源
 ## [项目主页](https://github.com/apache/flink)
 
+## 社群
+1. ![【钉钉群】-Flink China社区大群](http://blog.luckypeng.com/images/flink-dingtalk.png)
+
 ## 学习网站
 ### 社区
 1. [Apache Flink China](https://flink-china.org/index.html)
@@ -20,6 +23,8 @@
 2. [【小鹏闲话】-flink分类](http://blog.luckypeng.com/tags/flink/)
 3. [【yanghua】-flink分类](http://vinoyang.com/tags/Flink/)
 
-
 ### 英文博客
 1. [【Data Artisans】(flink背后创业公司)-apache-flink分类](https://data-artisans.com/blog/category/apache-flink)
+
+## 优秀文章清单
+1. [Flink已经足够强大了吗？阿里巴巴说：还不够](https://mp.weixin.qq.com/s/hike1xQcykFyXpNb6E11tw)
