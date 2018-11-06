@@ -2,7 +2,8 @@
 ## [项目主页](https://github.com/apache/flink)
 
 ## 社群
-1. 【钉钉群】-Flink China社区大群![【钉钉群】-Flink China社区大群](http://blog.luckypeng.com/images/flink-dingtalk.png)
+1. 【钉钉群】-Flink China社区大群
+![【钉钉群】-Flink China社区大群](http://blog.luckypeng.com/images/flink-dingtalk.png)
 
 ## 学习网站
 ### 社区
