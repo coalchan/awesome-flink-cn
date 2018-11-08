@@ -24,6 +24,7 @@
 1. [【阿里-云邪】-flink分类](http://wuchong.me/categories/Flink/)
 2. [【小鹏闲话】-flink分类](http://blog.luckypeng.com/tags/flink/)
 3. [【yanghua】-flink分类](http://vinoyang.com/tags/Flink/)
+4. [【简单之美】-flink分类](http://shiyanjun.cn/archives/category/opensource/flink)
 
 ### 英文博客
 1. [【Data Artisans】(flink背后创业公司)-apache-flink分类](https://data-artisans.com/blog/category/apache-flink)
