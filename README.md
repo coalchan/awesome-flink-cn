@@ -4,7 +4,7 @@
 ## 社群
 1. 【钉钉群】-Flink China社区大群
 
-![【钉钉群】-Flink China社区大群](http://blog.luckypeng.com/images/flink-dingtalk.png)
+[点击查看二维码](http://blog.luckypeng.com/images/flink-dingtalk.png)
 
 ## 学习网站
 ### 社区
