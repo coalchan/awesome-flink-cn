@@ -22,9 +22,13 @@
 
 ## 英文博客
 1. [【Data Artisans】(flink背后创业公司)-apache-flink分类](https://data-artisans.com/blog/category/apache-flink)
+2. [【Madhukar's Blog】-flink分类](http://blog.madhukaraphatak.com/categories/flink/)
 
 ## 学习教程
 1. [ververica（Flink背后创业公司）的训练教程](https://training.ververica.com/)
 
 ## 优秀文章清单
 1. [Flink已经足够强大了吗？阿里巴巴说：还不够](https://mp.weixin.qq.com/s/hike1xQcykFyXpNb6E11tw)
+
+## PPT
+1. [slideshare-Flink Forward](https://www.slideshare.net/FlinkForward/presentations)
