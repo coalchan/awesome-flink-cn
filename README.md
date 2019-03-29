@@ -11,6 +11,7 @@
 ## 相关优秀项目
 1. [【flinkx】(基于flink的分布式离线数据同步工具)](https://github.com/DTStack/flinkx)
 2. [【flinkStreamSQL】(flink sql扩展：主要实现了流与维表的join)](https://github.com/DTStack/flinkStreamSQL)
+3. [【flink-spector】（flink 单元测试框架）](https://github.com/ottogroup/flink-spector)以及 [PPT](https://2016.flink-forward.org/wp-content/uploads/2016/07/Alexander-Kolb-Flinkspector-%E2%80%93-Taming-the-squirrel.pdf)
 
 ## 中文博客
 1. [【云栖社区】-flink分类](https://yq.aliyun.com/tags/type_blog-tagid_13652/?spm=a2c4e.11153940.blogcont225623.6.64026211p5DnGP)
